@@ -6,9 +6,9 @@ The project showcases a modern frontend stack built with React, TypeScript, and 
 
 <img width="1899" height="1167" alt="image" src="https://github.com/user-attachments/assets/f6e28bf6-1384-491b-a472-0c9ea0babdeb" />
 
-##TRY-LIVE - https://dmitriidrugov.github.io/pizza-shop/
+TRY-LIVE - https://dmitriidrugov.github.io/pizza-shop/
 
-##Known Issue
+Known Issue
 Currently, the "Home" link in GitHub Pages navigation points to a non-existent route.
 Status: A fix is in progress.
 
@@ -19,19 +19,19 @@ After opening the deployed app, click the pizza logo in the top-left corner to r
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 📦 **Pizza list loading** from the server
-- 🔎 **Filtering & sorting** (by price, popularity, etc.)
-- 📄 **Pagination** for easy catalog browsing
-- 🛒 **Shopping cart** with add/remove functionality
-- 💰 **Real-time order total calculation**
-- 📱 **Responsive design** for mobile devices
-- ⚡ Fast build & deployment via GitHub Pages
+-  **Pizza list loading** from the server
+-  **Filtering & sorting** (by price, popularity, etc.)
+-  **Pagination** for easy catalog browsing
+-  **Shopping cart** with add/remove functionality
+-  **Real-time order total calculation**
+-  **Responsive design** for mobile devices
+-  Fast build & deployment via GitHub Pages
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - **Vite** — fast build tool & dev server
 - **React** — UI components
@@ -44,7 +44,7 @@ After opening the deployed app, click the pizza logo in the top-left corner to r
 
 ---
 
-## 📦 Installation & Setup
+##  Installation & Setup
 
 ```bash
 # Clone the repository
